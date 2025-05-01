@@ -42,5 +42,5 @@ while not game_over:
         print("**************************** IT WAS " + word + "! YOU WIN ****************************")
         game_over = True
     elif lives <= 0:
-        print("**************************** IT WAS " + word + "! YOU LOSe ****************************")
+        print("**************************** IT WAS " + word + "! YOU LOSE ****************************")
         game_over = True
